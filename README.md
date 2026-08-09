@@ -1,21 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RISHI%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=RISHI%20KUMAVAT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Linux%20and%20CTF%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+Software+Systems;Engineering+AI%2FML+Solutions;Full+Stack+%7C+Cloud+%7C+DevOps;Turning+Ideas+Into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Exploring+Web+Security+and+CTFs;Hands-on+with+Linux+and+Infra+Protection;Solving+Daily+Code+Challenges;Building+Practical+Security+Tools" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
+![B.Sc Cyber Security](https://img.shields.io/badge/B.Sc-Cyber%20Security-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Pune,%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kumavat)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishi.cybersecurity@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R15H1-201)
 
 <br/>
@@ -31,25 +30,25 @@
 ## 🧠 About Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/Engineering%20Mindset-Precision%20%7C%20Scale%20%7C%20Impact-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20Linux%20%7C%20CTFs-8A2BE2?style=flat-square" />
 </div>
 
-I'm a **Software Engineer** focused on building high-performance, production-grade systems at the intersection of **Artificial Intelligence**, **Full Stack Engineering**, and **Cloud-Native Architecture**. My work centers on translating complex problems into scalable, maintainable, and secure software — from distributed backend systems to intelligent ML-driven products.
+I'm a **BSc Cybersecurity student at Indira University**, currently in my second year. I spend most of my time hands-on with **Linux environments, CTF challenges, and web security**, working through real attack/defense scenarios to understand how systems actually break — and how to protect them.
 
-I approach engineering with a **product-first mindset** — every system I build is designed with performance benchmarks, security posture, and real-world scalability in mind, not just functional correctness.
+Alongside security work, I actively solve daily coding challenges to keep my programming fundamentals sharp, and I build small practical tools that combine web development with security concepts.
 
-- 🔭 Engineering scalable backend systems and AI-powered applications
-- 🧩 Deep interest in Machine Learning, Deep Learning & applied AI systems
-- 🏗️ Full stack development across modern web ecosystems
-- ⚙️ DevOps-driven development — CI/CD, containerization, cloud infrastructure
-- 📈 Obsessed with performance optimization, clean architecture & system design
+- 🔐 Hands-on with Linux, CTFs, and web application security
+- 🛡️ Learning infrastructure protection and offensive/defensive security fundamentals
+- 💻 Building tools that blend front-end development with security utilities
+- 📅 Solving coding challenges daily to strengthen core programming skills
+- 🎓 Campus Ambassador at **GeeksforGeeks**
 
 ### 🎯 Open To
 
 ```yaml
-Roles: [Software Engineer, AI/ML Engineer, Full Stack Developer, Backend Engineer]
-Collaboration: [Open Source, AI Research Projects, Product Engineering]
-Availability: Open to full-time opportunities & freelance collaborations
+Roles: [Cybersecurity Intern, SOC Analyst Trainee, Security Research Assistant]
+Collaboration: [CTF Teams, Open Source Security Tools, Campus Tech Communities]
+Availability: Open to internships and collaborative learning opportunities
 ```
 
 ---
@@ -58,39 +57,22 @@ Availability: Open to full-time opportunities & freelance collaborations
 
 ### Languages
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,go" />
+<img src="https://skillicons.dev/icons?i=python,c" />
 </div>
 
 ### Frontend
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
-### Backend & Databases
+### Databases
 <div align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,postgres,mongodb,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=postgres" />
 </div>
 
 ### Cloud, DevOps & Tooling
 <div align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,git,github,linux,nginx,postman" />
-</div>
-
----
-
-## 🤖 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Regression, Classification, Ensemble Models, Feature Engineering |
-| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, RNNs, Transformers, Model Optimization |
-| NLP | ⭐⭐⭐☆☆ | Text Classification, Embeddings, LLM Integration |
-| Computer Vision | ⭐⭐⭐☆☆ | Image Classification, Object Detection, OpenCV |
-| MLOps | ⭐⭐⭐☆☆ | Model Deployment, Versioning, CI/CD for ML Pipelines |
-| Generative AI | ⭐⭐⭐⭐☆ | LLM APIs, Prompt Engineering, RAG Pipelines |
-
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,kali" />
 </div>
 
 ---
@@ -98,59 +80,53 @@ Availability: Open to full-time opportunities & freelance collaborations
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — Intelligent System Platform</b></summary>
+<summary><b>🔹 Password Generator</b></summary>
 <br/>
 
-A production-grade platform engineered for scalability and reliability, integrating AI-driven decision-making with a robust backend architecture.
+A browser-based password generator that creates strong, randomized passwords based on customizable length and character rules.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | React, Node.js, PostgreSQL, Docker, AWS |
-| **Scale** | Handles concurrent multi-user workloads |
-| **Performance** | Optimized API response time under 200ms |
-| **Security** | JWT Auth, Role-Based Access Control, Input Sanitization |
-| **Impact** | Reduced manual workflow time by 40% |
-| **Repository** | [View Repository](https://github.com/R15H1-201) |
+| **Stack** | HTML, CSS, JavaScript |
+| **Focus** | Client-side randomization and password strength |
+| **Repository** | [View Repository](https://github.com/R15H1-201/Password-Generater) |
+| **Live Demo** | [Open Project](https://r15h1-201.github.io/Password-Generater/) |
 
-This project demonstrates end-to-end ownership — from system design and database schema architecture to deployment pipelines and monitoring, built with production reliability as a core requirement.
+Built to reinforce fundamentals of client-side security hygiene — generating unpredictable, high-entropy passwords entirely in-browser with no data leaving the client.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — AI-Powered Analytics Engine</b></summary>
+<summary><b>🔹 Caesar Cipher</b></summary>
 <br/>
 
-An AI/ML-driven analytics engine designed to process large-scale datasets and surface actionable insights through predictive modeling.
+An educational, interactive exploration of the classic Caesar Cipher with a mechanical visualizer and real-time encoding/decoding.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Python, FastAPI, TensorFlow, Redis, Docker |
-| **Scale** | Processes large structured datasets efficiently |
-| **Performance** | Optimized inference pipeline with batch processing |
-| **Security** | Encrypted data pipelines, secure API gateways |
-| **Impact** | Improved prediction accuracy by measurable margins |
-| **Repository** | [View Repository](https://github.com/R15H1-201) |
+| **Stack** | HTML, CSS, JavaScript |
+| **Focus** | Classical cryptography concepts, real-time text processing |
+| **Repository** | [View Repository](https://github.com/R15H1-201/Caesar-Cipher) |
+| **Live Demo** | [Open Project](https://r15h1-201.github.io/Caesar-Cipher/) |
 
-Architected with a focus on model reproducibility, clean data pipelines, and scalable inference serving suitable for production ML workloads.
+Built as a hands-on way to understand substitution ciphers — a foundational concept in cryptography — with an intuitive visual interface for encoding and decoding text on the fly.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Three — Full Stack SaaS Application</b></summary>
+<summary><b>🔹 QR Code Maker</b></summary>
 <br/>
 
-A complete SaaS solution featuring a modern frontend, secure backend services, and cloud-native deployment infrastructure.
+A lightweight web tool that generates scannable QR codes instantly from any text or URL input.
 
 | Attribute | Details |
 |---|---|
-| **Stack** | Next.js, Express, MongoDB, Kubernetes, GCP |
-| **Scale** | Multi-tenant architecture |
-| **Performance** | Optimized rendering with SSR/ISR strategies |
-| **Security** | OAuth2, Rate Limiting, Data Encryption |
-| **Impact** | Streamlined operations for end users |
-| **Repository** | [View Repository](https://github.com/R15H1-201) |
+| **Stack** | HTML, CSS, JavaScript |
+| **Focus** | Client-side QR encoding and instant generation |
+| **Repository** | [View Repository](https://github.com/R15H1-201/QR-Code-Maker) |
+| **Live Demo** | [Open Project](https://r15h1-201.github.io/QR-Code-Maker/) |
 
-Engineered with a strong emphasis on developer experience, modular architecture, and CI/CD automation for rapid, reliable iteration.
+A simple, practical utility built to explore encoding schemes and deliver a clean, no-friction generation experience directly in the browser.
 
 </details>
 
@@ -158,53 +134,32 @@ Engineered with a strong emphasis on developer experience, modular architecture,
 
 ## 💼 Experience
 
-### Software Engineer Intern
-**Company Name** | *Month Year — Month Year*
+### Campus Ambassador
+**GeeksforGeeks** | *Present*
 
-Contributed to the design and development of scalable backend services and AI-integrated features within a fast-paced engineering team.
+Representing GeeksforGeeks on campus, driving student engagement with coding culture, contests, and community initiatives at Indira University.
 
-- Designed and implemented RESTful APIs serving core application functionality
-- Optimized database queries, improving system response time significantly
-- Collaborated cross-functionally with product and design teams on feature delivery
-- Integrated AI/ML components into existing product workflows
+- Promoting GeeksforGeeks coding contests, articles, and learning resources among peers
+- Organizing and encouraging participation in coding and DSA practice within the campus community
+- Acting as a bridge between GeeksforGeeks and the student developer community
 
-`Python` `Node.js` `PostgreSQL` `Docker` `AWS`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥇 Hackathon Winner | National-level hackathon, top placement among competitive teams |
-| 📜 Open Source Contributor | Active contributions to community-driven repositories |
-| 🎓 Academic Excellence | Consistent top-tier academic performance |
-| 💡 Technical Publication | Published technical article on applied AI/ML systems |
-
-</div>
+`Community Building` `DSA Advocacy` `Event Promotion`
 
 ---
 
 ## 📜 Certifications
 
-**AWS**
+**Cisco NetAcad**
 
-![AWS Certified](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cisco](https://img.shields.io/badge/Fundamentals%20of%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-**Oracle**
+**Hackviser**
 
-![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Hackviser](https://img.shields.io/badge/Hackviser-CORE-8A2BE2?style=for-the-badge&logo=hackthebox&logoColor=white)
 
-**NPTEL**
+**Google**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google](https://img.shields.io/badge/Google-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -212,10 +167,7 @@ Contributed to the design and development of scalable backend services and AI-in
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/R15H1-201)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/R15H1-201)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/R15H1-201)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/R15H1-201)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/R15H1-201/)
 
 </div>
 
@@ -270,22 +222,22 @@ Contributed to the design and development of scalable backend services and AI-in
 
 ```yaml
 Learning:
-  - Advanced System Design & Distributed Architecture
-  - LLM Fine-tuning & Retrieval-Augmented Generation (RAG)
-  - Cloud-Native Scalability Patterns
+  - Web Application Security (OWASP Top 10)
+  - Linux System Hardening & Infrastructure Protection
+  - Network Fundamentals & Threat Analysis
 
 Building:
-  - AI-integrated full stack applications
-  - Open source developer tooling
+  - Small security-focused web utilities
+  - Personal CTF write-ups and practice repos
 
 Exploring:
-  - Multi-agent AI systems
-  - Edge computing & serverless architectures
+  - Capture The Flag (CTF) competitions
+  - Offensive security fundamentals
 
 Open To:
-  - Full-time Software / AI Engineering Roles
-  - Open Source Collaboration
-  - Research-driven Engineering Projects
+  - Cybersecurity Internships
+  - CTF Team Collaborations
+  - Campus Tech Community Initiatives
 ```
 
 ---
@@ -294,10 +246,9 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishi.cybersecurity@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-kumavat)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/R15H1-201)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
@@ -305,7 +256,7 @@ Open To:
 
 <div align="center">
 
-*"Engineering is not just about writing code — it's about building systems that scale, endure, and create impact."*
+*"Security isn't a feature — it's a mindset built one CTF, one bug, one system at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
 
