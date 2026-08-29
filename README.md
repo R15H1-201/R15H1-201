@@ -193,14 +193,23 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 
 ---
 
+## 🕹️ Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R15H1-201/R15H1-201/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R15H1-201/R15H1-201/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/R15H1-201/R15H1-201/output/pacman-contribution-graph.svg" width="95%">
+</picture>
+
+</div>
+
+---
+
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Floating-Point Trap: Why 0.1 + 0.2 Is Not Exactly 0.3 in Java](https://medium.com/@rishikumavat12/the-floating-point-trap-why-0-1-0-2-is-not-exactly-0-3-in-java-5ca146604a0c?source=rss-2ea2d6371c6c------2)
-- [Time Complexity vs. Space Complexity: The Ultimate Balancing Act in DSA](https://medium.com/@rishikumavat12/time-complexity-vs-space-complexity-the-ultimate-balancing-act-in-dsa-a20a80b4d62f?source=rss-2ea2d6371c6c------2)
-- [CryptoCabana | TryHackMe Writeup](https://medium.com/@rishikumavat12/cryptocabana-tryhackme-writeup-78c0c492ffc2?source=rss-2ea2d6371c6c------2)
-- [Towel on the Sunbed | TryHackMe Hacker Holidays 2026 Day 8 Walkthrough](https://medium.com/@rishikumavat12/towel-on-the-sunbed-tryhackme-hacker-holidays-2026-day-8-walkthrough-9a085c7e6b1a?source=rss-2ea2d6371c6c------2)
-- [Do Not Disturb | Hacker Holidays Day 7 | TryHackMe Writeup](https://medium.com/@rishikumavat12/do-not-disturb-hacker-holidays-day-7-tryhackme-writeup-96df4f07462b?source=rss-2ea2d6371c6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -246,7 +255,5 @@ Open To:
 *"Security isn't a feature — it's a mindset built one CTF, one bug, one system at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
-
-</div>
 
 </div>
