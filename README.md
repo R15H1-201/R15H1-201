@@ -193,6 +193,13 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 
 ---
 
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
