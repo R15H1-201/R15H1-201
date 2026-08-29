@@ -1,0 +1,19 @@
+name: Latest Blog Post Workflow
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull in latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://medium.com/feed/@rishikumavat12"
+          max_post_count: 5
