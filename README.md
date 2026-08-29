@@ -57,7 +57,7 @@ Availability: Open to internships and collaborative learning opportunities
 
 ### Languages
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,c" />
+<img src="https://skillicons.dev/icons?i=python,c,java" />
 </div>
 
 ### Frontend
@@ -177,32 +177,7 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=R15H1-201&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=R15H1-201&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R15H1-201&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" width="48%" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=R15H1-201&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R15H1-201&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" width="95%" />
+<img src="https://streak-stats.demolab.com?user=R15H1-201&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" width="60%" />
 
 </div>
 
@@ -259,5 +234,7 @@ Open To:
 *"Security isn't a feature — it's a mindset built one CTF, one bug, one system at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+
+</div>
 
 </div>
