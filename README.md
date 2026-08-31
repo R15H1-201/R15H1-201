@@ -210,7 +210,9 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Object-Oriented Programming &lpar;OOP&rpar; in Java: A Practical Guide](https://medium.com/@rishikumavat12/mastering-object-oriented-programming-oop-in-java-a-practical-guide-dadd7b7d822c?source=rss-2ea2d6371c6c------2)
 - [The Floating-Point Trap: Why 0.1 + 0.2 Is Not Exactly 0.3 in Java](https://medium.com/@rishikumavat12/the-floating-point-trap-why-0-1-0-2-is-not-exactly-0-3-in-java-5ca146604a0c?source=rss-2ea2d6371c6c------2)
+- [Time Complexity vs. Space Complexity: The Ultimate Balancing Act in DSA](https://medium.com/@rishikumavat12/time-complexity-vs-space-complexity-the-ultimate-balancing-act-in-dsa-a20a80b4d62f?source=rss-2ea2d6371c6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
