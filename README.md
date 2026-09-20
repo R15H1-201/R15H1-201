@@ -210,6 +210,7 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Inheritance Explained: 5 Types Every Beginner Should Know](https://medium.com/@rishikumavat12/python-inheritance-explained-5-types-every-beginner-should-know-0d53eac3532a?source=rss-2ea2d6371c6c------2)
 - [Git Commands Explained: A Practical Guide to Pushing and Updating Your Code](https://medium.com/@rishikumavat12/git-commands-explained-a-practical-guide-to-pushing-and-updating-your-code-531e1ed0bc99?source=rss-2ea2d6371c6c------2)
 - [Writing Cleaner Java: The Practical Blueprint for Object-Oriented Design](https://medium.com/@rishikumavat12/mastering-object-oriented-programming-oop-in-java-a-practical-guide-dadd7b7d822c?source=rss-2ea2d6371c6c------2)
 - [The Floating-Point Trap: Why 0.1 + 0.2 Is Not Exactly 0.3 in Java](https://medium.com/@rishikumavat12/the-floating-point-trap-why-0-1-0-2-is-not-exactly-0-3-in-java-5ca146604a0c?source=rss-2ea2d6371c6c------2)
