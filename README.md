@@ -210,11 +210,11 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java Just Got Easier! Say Hello to void main&lpar;&rpar;](https://medium.com/@rishikumavat12/java-just-got-easier-say-hello-to-void-main-1f8150f9b78a?source=rss-2ea2d6371c6c------2)
 - [I Studied Cybersecurity. Here Are 10 Things I Stopped Doing Online](https://medium.com/@rishikumavat12/i-studied-cybersecurity-here-are-10-things-i-stopped-doing-online-d812e87e119d?source=rss-2ea2d6371c6c------2)
 - [Java’s Secret Identity Crisis: Primitives vs. Wrapper Classes Explained](https://medium.com/@rishikumavat12/javas-secret-identity-crisis-primitives-vs-wrapper-classes-explained-6e9f7af5527d?source=rss-2ea2d6371c6c------2)
 - [Python Inheritance Explained: 5 Types Every Beginner Should Know](https://medium.com/@rishikumavat12/python-inheritance-explained-5-types-every-beginner-should-know-0d53eac3532a?source=rss-2ea2d6371c6c------2)
 - [Git Commands Explained: A Practical Guide to Pushing and Updating Your Code](https://medium.com/@rishikumavat12/git-commands-explained-a-practical-guide-to-pushing-and-updating-your-code-531e1ed0bc99?source=rss-2ea2d6371c6c------2)
-- [Writing Cleaner Java: The Practical Blueprint for Object-Oriented Design](https://medium.com/@rishikumavat12/mastering-object-oriented-programming-oop-in-java-a-practical-guide-dadd7b7d822c?source=rss-2ea2d6371c6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
