@@ -57,7 +57,7 @@ Availability: Open to internships and collaborative learning opportunities
 
 ### Languages
 <div align="left">
-<img src="https://skillicons.dev/icons?i=python,c,java" />
+<img src="https://skillicons.dev/icons?i=python,c,java,c++" />
 </div>
 
 ### Frontend
