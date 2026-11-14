@@ -65,9 +65,14 @@ Availability: Open to internships and collaborative learning opportunities
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
 
+### Backend & APIs
+<div align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,postman" />
+</div>
+
 ### Databases
 <div align="left">
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://skillicons.dev/icons?i=postgres," />
 </div>
 
 ### Cloud, DevOps & Tooling
