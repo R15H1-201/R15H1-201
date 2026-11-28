@@ -215,11 +215,11 @@ Representing GeeksforGeeks on campus, driving student engagement with coding cul
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 Went Down for 24+ Hours. Was It a Cyberattack or a Server-Side Disaster?](https://medium.com/@rishikumavat12/microsoft-365-went-down-for-24-hours-was-it-a-cyberattack-or-a-server-side-disaster-bd806f03464a?source=rss-2ea2d6371c6c------2)
-- [C vs C++: What’s the Real Difference, and Which One Should You Learn First?](https://medium.com/@rishikumavat12/c-vs-c-whats-the-real-difference-and-which-one-should-you-learn-first-48a87ff265c8?source=rss-2ea2d6371c6c------2)
-- [I Studied Cybersecurity. Here Are 10 Things I Stopped Doing Online](https://medium.com/@rishikumavat12/i-studied-cybersecurity-here-are-10-things-i-stopped-doing-online-f4112d2561f3?source=rss-2ea2d6371c6c------2)
-- [Java Just Got Easier! Say Hello to void main&lpar;&rpar;](https://medium.com/@rishikumavat12/java-just-got-easier-say-hello-to-void-main-1f8150f9b78a?source=rss-2ea2d6371c6c------2)
-- [I Studied Cybersecurity. Here Are 10 Things I Stopped Doing Online](https://medium.com/@rishikumavat12/i-studied-cybersecurity-here-are-10-things-i-stopped-doing-online-d812e87e119d?source=rss-2ea2d6371c6c------2)
+- [Microsoft 365 Went Down for 24+ Hours. Was It a Cyberattack or a Server-Side Disaster?](https://r15h1-201.medium.com/microsoft-365-went-down-for-24-hours-was-it-a-cyberattack-or-a-server-side-disaster-bd806f03464a?source=rss-2ea2d6371c6c------2)
+- [C vs C++: What’s the Real Difference, and Which One Should You Learn First?](https://r15h1-201.medium.com/c-vs-c-whats-the-real-difference-and-which-one-should-you-learn-first-48a87ff265c8?source=rss-2ea2d6371c6c------2)
+- [I Studied Cybersecurity. Here Are 10 Things I Stopped Doing Online](https://r15h1-201.medium.com/i-studied-cybersecurity-here-are-10-things-i-stopped-doing-online-f4112d2561f3?source=rss-2ea2d6371c6c------2)
+- [Java Just Got Easier! Say Hello to void main&lpar;&rpar;](https://r15h1-201.medium.com/java-just-got-easier-say-hello-to-void-main-1f8150f9b78a?source=rss-2ea2d6371c6c------2)
+- [I Studied Cybersecurity. Here Are 10 Things I Stopped Doing Online](https://r15h1-201.medium.com/i-studied-cybersecurity-here-are-10-things-i-stopped-doing-online-d812e87e119d?source=rss-2ea2d6371c6c------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
